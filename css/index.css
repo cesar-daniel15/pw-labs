@@ -1,0 +1,56 @@
+body {
+    font-family: "Oswald", sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: #D8D8D8;
+}
+
+.container {
+    position: relative;
+    display: inline-block;
+}
+
+.main-image{
+    width: 100%;
+    height: auto;
+}
+
+.login, .register {
+    margin: 10px;
+    height: 50px;
+    width: 450px;
+    border-radius: 20px;
+    background-color: #DF2D3C;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.forgot_password{
+    margin-top: 20px;
+    color: #000;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    transition: transform 0.3s ease;
+}
+
+a:hover {
+    transform: scale(1.1);
+}
+
+
+footer {
+    position: fixed;
+    bottom: 15px;
+    width: 100%;
+    text-align: center;
+    color: #000; 
+}
+
