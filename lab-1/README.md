@@ -1,6 +1,8 @@
 # Authentication System  (FrontEnd)
 
-![Logo](https://icons.iconarchive.com/icons/graphicloads/100-flat/256/contact-icon.png)
+<p align="center">
+  <img src="https://icons.iconarchive.com/icons/graphicloads/100-flat/256/contact-icon.png" alt="Logo">
+</p>
 
 ## Descrição
 

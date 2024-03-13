@@ -110,3 +110,16 @@ label {
     background-color: #CC3433;
     transform: scale(1.1);
 }
+
+
+@media (max-width: 600px) {
+
+    .container {
+        width: 80%;
+        max-width: 80%; 
+    }
+    
+    input{
+        width: 300px;
+    }
+}
