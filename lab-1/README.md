@@ -12,8 +12,8 @@ Este projeto é um exemplo básico que opera exclusivamente no frontend.
 
 ## Instruções de Instalação
 
-1. Clone o repositório: `git clone https://github.com/cesar-daniel15/pw-labs`
-2. Abra o arquivo `index.html` em um navegador web.
+1. Clone o repositório: `git clone https://github.com/cesar-daniel15/pw-labs/tree/main/lab-1`
+2. Abra o arquivo `index.html`num browser.
 
 ## Capturas de Ecra
 
