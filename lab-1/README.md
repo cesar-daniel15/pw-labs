@@ -1,4 +1,4 @@
-# Authentication System  (FrontEnd)
+# System Lab 1 (FrontEnd)
 
 <p align="center">
   <img src="https://icons.iconarchive.com/icons/graphicloads/100-flat/256/contact-icon.png" alt="Logo">
@@ -15,14 +15,5 @@ Este projeto é um exemplo básico que opera exclusivamente no frontend.
 1. Clone o repositório: `git clone https://github.com/cesar-daniel15/pw-labs/tree/main/lab-1`
 2. Abra o arquivo `index.html`num browser.
 
-## Capturas de Ecra
-
-![Index Page](screenshots/screenshot_1.png)
-
-![Login Page](screenshots/screenshot_2.png)
-
-![Register Page](screenshots/screenshot_3.png)
-
-![Forgot Password Page](screenshots/screenshot_4.png)
 
 

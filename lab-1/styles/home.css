@@ -1,0 +1,12 @@
+.custom-bg {
+    background-color: #D8D8D8;
+}
+
+textarea{
+    height: 100px
+}
+
+.modal-body img{
+    max-width: 100%; 
+    height: auto;
+}
